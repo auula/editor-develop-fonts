@@ -1,0 +1,30 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    // 控制字体系列。
+    "editor.fontFamily": "Menlo",
+    "editor.fontSize": 18,
+    // 启用字体连字
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.fontSize": 18,
+    // go的安装目录
+    "go.goroot": "/usr/local/go",
+    // gopath目录
+    "go.gopath": "/Users/ding/Documents/GO_CODE_DEV", 
+    "go.inferGopath": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.docsTool": "gogetdoc",
+    "go.formatTool": "goimports",
+    "backgroundCover.imagePath": "/Users/ding/Downloads/48p1j0.jpg",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "GitHub Dark Default",
+    // rust配置
+    "rust-client.autoStartRls": true,
+    "rust-client.channel": "stable",
+    "editor.formatOnSave": true,
+    "go.toolsManagement.autoUpdate": true,
+}
